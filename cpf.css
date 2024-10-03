@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(23, 56, 240);
+font-family: Georgia, Times, 'Times New Roman', serif;
+    
+    background-image: url('dolar1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: unset;
+    color: rgb(255, 255, 255);
+
+}
+button{
+    background-color: rgb(144, 183, 255);
+    border-radius: 5px;
+}
+div{
+    font-family: unset;
+    color: rgb(255, 255, 255);
+}

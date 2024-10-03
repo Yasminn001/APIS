@@ -1,0 +1,20 @@
+{
+    "imagem": "<img src='imgecommerce/virginia.jpg' width='200px'>",
+    "nome": "Clary Fairchild",
+    "sobrenome": 18,
+    "cidade": "Instituto de Man- Nova York",
+    "pais": "Caçadora de sombras",
+
+    "imagem2": "<img src='imgecommerce/billie.jpg' width='200px'>",
+    "nome2": "Clary Fairchild",
+    "sobrenome2": 18,
+    "cidade2": "Instituto de Man- Nova York",
+    "pais2": "Caçadora de sombras",
+
+    "imagem3": "<img src='imgecommerce/brunoMars.webp' width='200px'>",
+    "nome3": "Clary Fairchild",
+    "sobrenome3": 18,
+    "cidade3": "Instituto de Man- Nova York",
+    "pais3": "Caçadora de sombras"
+    
+}

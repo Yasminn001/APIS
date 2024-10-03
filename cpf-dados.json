@@ -1,0 +1,124 @@
+[
+   {
+    "id":22,
+    "cpf":222222,
+    "nome":"Caio",
+    "sobrenome":"Oliveira",
+    "cidade":"Póa",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/caio.jpg' width='200px'>"
+    
+
+},
+{
+    "id":33,
+    "cpf":333333,
+    "nome":"Camila",
+    "sobrenome":"Santana",
+    "cidade":"Orlando",
+    "pais":"EUA",
+    "imagem": "<img src='imgCPF/Camilla.jpg' width='200px'>"
+
+
+},
+{
+    "id":44,
+    "cpf":444444,
+    "nome":"Carla",
+    "sobrenome":"Souza",
+    "cidade":"Itaquá",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/carla.avif' width='200px'>"
+    
+
+},
+{
+    "id":55,
+    "cpf":555555,
+    "nome":"julio",
+    "sobrenome":"Alvez",
+    "cidade":"chique chique",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/julio.avif' width='200px'>"
+    
+
+},
+{
+    "id":66,
+    "cpf":666666,
+    "nome":"Katarina",
+    "sobrenome":"De Luccas",
+    "cidade":"Alphaville",
+    "pais":"Brazil",
+    "imagem": "<img src='imgCPF/katarina.jpg' width='200px'>"
+
+
+},
+{
+    "id":77,
+    "cpf":777777,
+    "nome":"Lara",
+    "sobrenome":"Paixão",
+    "cidade":"Goiania",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/lara.jpg' width='200px'>"
+    
+
+},
+{
+    "id":88,
+    "cpf":888888,
+    "nome":"Luana",
+    "sobrenome":"Potter",
+    "cidade":"Itaim Paulista",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/luana.jpg' width='200px'>"
+    
+
+},
+{
+    "id":99,
+    "cpf":999999,
+    "nome":"Lucas",
+    "sobrenome":"Martins",
+    "cidade":"Orange",
+    "pais":"EUA",
+    "imagem": "<img src='imgCPF/lucas.avif' width='200px'>"
+
+
+},
+{
+    "id":10,
+    "cpf":101010,
+    "nome":"Lucca",
+    "sobrenome":"Oliveira",
+    "cidade":"Goiania",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/lucca.jpg' width='200px'>"
+    
+
+},
+{
+    "id":11,
+    "cpf":111111,
+    "nome":"Lurdes",
+    "sobrenome":"Riberio",
+    "cidade":"Mogi das cruzes",
+    "pais":"Brasil",
+    "imagem": "<img src='imgCPF/lurdes.jpg' width='200px'>"
+    
+
+},
+{
+    "id":12,
+    "cpf":121212,
+    "nome":"Marcos",
+    "sobrenome":"Martins",
+    "cidade":"Vancuver",
+    "pais":"Canada",
+    "imagem": "<img src='imgCPF/marcos.jpg' width='200px'>"
+
+
+}
+
+]

@@ -1,0 +1,77 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #f80000;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.character-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centraliza as caixas na tela */
+    gap: 20px;
+}
+
+.player {
+    background-color: #444;
+    border: 2px solid #f80000;
+    border-radius: 10px;
+    padding: 15px;
+    width: 200px; /* Largura fixa para as caixas */
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.player:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(255, 1, 1, 0.7);
+}
+
+.player img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #f80000;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color:#f80000;
+}
+
+.player-info {
+    background-color: #222;
+    border: 2px solid #f80000;
+    border-radius: 10px;
+    padding: 15px;
+    display: none; /* Oculto por padrão */
+    margin-top: 20px;
+    color: #fff; /* Cor do texto */
+}
+.voltar {
+    text-align: center;
+}

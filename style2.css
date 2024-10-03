@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(52, 199, 52);
+font-family: Georgia, Times, 'Times New Roman', serif;
+    
+    background-image: url('dolar1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.capa {
+    background-color: #9ae7a7; 
+    border-radius: 25px;
+    padding: 20px; 
+    max-width: 400px; 
+    margin: 50px auto; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+header{
+    background-color: darkgreen;
+    height: 40px;
+    text-align: center;
+}
+.titulo1{
+    font-family: unset;
+    color: aliceblue;
+
+}
